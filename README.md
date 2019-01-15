@@ -1,0 +1,26 @@
+CSS Eksternal
+
+Latihan 1
+![alt text](https://raw.githubusercontent.com/ArdiArya/CSS-Eksternal/master/1.png)
+Latihan 2
+![alt text](https://raw.githubusercontent.com/ArdiArya/CSS-Eksternal/master/Screenshot%20(37).png)
+Latihan 3
+![alt text]()
+Latihan 4
+![alt text](https://raw.githubusercontent.com/ArdiArya/CSS-Eksternal/master/Screenshot%20(36).png)
+Latihan 5
+![alt text](https://raw.githubusercontent.com/ArdiArya/CSS-Eksternal/master/Screenshot%20(35).png)
+Latihan 6
+![alt text](https://raw.githubusercontent.com/ArdiArya/CSS-Eksternal/master/Screenshot%20(34).png)
+Latihan 7
+![alt text](https://raw.githubusercontent.com/ArdiArya/CSS-Eksternal/master/Screenshot%20(33).png)
+Latihan 8
+![alt text](https://raw.githubusercontent.com/ArdiArya/CSS-Eksternal/master/8.png)
+Latihan 9
+![alt text](https://raw.githubusercontent.com/ArdiArya/CSS-Eksternal/master/9.png)
+Latihan 10
+![alt text](https://raw.githubusercontent.com/ArdiArya/CSS-Eksternal/master/10.png)
+Latihan 11
+![alt text](https://raw.githubusercontent.com/ArdiArya/CSS-Eksternal/master/11.png)
+Latihan 12
+![alt text](https://raw.githubusercontent.com/ArdiArya/CSS-Eksternal/master/13.png)
